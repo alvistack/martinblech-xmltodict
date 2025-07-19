@@ -1,0 +1,5 @@
+python-xmltodict source: file-without-copyright-information
+python-xmltodict source: no-debian-changes
+python-xmltodict source: source-contains-prebuilt-windows-binary
+python-xmltodict source: source-is-missing
+python-xmltodict source: source-package-encodes-python-version
